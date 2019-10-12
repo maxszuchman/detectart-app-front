@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dispositivos"
+            android:icon="@drawable/ic_router_black_24dp"
+            android:title="@string/nav_dispositivos" />
+        <item
+            android:id="@+id/nav_contactos"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="@string/nav_contactos" />
+        <item
+            android:id="@+id/nav_alertas"
+            android:icon="@drawable/ic_warning"
+            android:title="@string/nav_alertas" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/nav_logout">
+        </item>
+    </group>
+</menu>
