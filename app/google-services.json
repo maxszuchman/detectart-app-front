@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "1099034880549",
+    "firebase_url": "https://app-detectart.firebaseio.com",
+    "project_id": "app-detectart",
+    "storage_bucket": "app-detectart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099034880549:android:305aff942d1f57706fadcc",
+        "android_client_info": {
+          "package_name": "com.experta.detectart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099034880549-f07ge4444jkktbg35eub493l9k54b5b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.experta.detectart",
+            "certificate_hash": "3a37767fc63f17c5486fdc6be84b23646af239d3"
+          }
+        },
+        {
+          "client_id": "1099034880549-1hufk5la2as5vi7ifh5v4p05ro44a8fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.experta.detectart",
+            "certificate_hash": "b320ad588887ad7dde9855c7636b5d66df3680c2"
+          }
+        },
+        {
+          "client_id": "1099034880549-njvr10mk8rm2jdiu3vrm581vjo8qf95j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.experta.detectart",
+            "certificate_hash": "ed85a87e2c47de0434f16c5df0b7b9cc735b091a"
+          }
+        },
+        {
+          "client_id": "1099034880549-j7r3oo7m7duhfnpingafl6gjlvuta08f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.experta.detectart",
+            "certificate_hash": "7c3c1dd01956c81efbfbc6f67ae950a2001a0d98"
+          }
+        },
+        {
+          "client_id": "1099034880549-ekhqpbcbrbp3la8i00sic3pbv3s6aciq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.experta.detectart",
+            "certificate_hash": "d139fd8b26624c605274b821588e23ea99249613"
+          }
+        },
+        {
+          "client_id": "1099034880549-v1qefm0oaglla4qh89eik1n2nl880o4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArotnH0h2IeUj0KYotnOfNm-AiMDGvOl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099034880549-v1qefm0oaglla4qh89eik1n2nl880o4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

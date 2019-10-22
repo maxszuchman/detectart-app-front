@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DetectART</string>
+
+
+    <string name="splash_screen">DetectARTgit clean -d -f -i</string>
+    <string name="nav_contactos">Contactos</string>
+    <string name="nav_dispositivos">Dispositivos</string>
+    <string name="nav_logout">Cerrar sesión</string>
+    <string name="navigation">Navigation</string>
+    <string name="add_dispositivo">Agregar dispositivo</string>
+
+    <string name="web_client_id">765694310227-lpaonlep4loc4k6c55oj431se1on7fga.apps.googleusercontent.com</string>
+    <string name="title_activity_login">Login</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="text_login">Log in...</string>
+    <string name="dialog_confirmacion">¿Desea confirmar cerrar sesión?</string>
+    <string name="dialog_ok">Confirmar</string>
+    <string name="dialog_cancel">Cancelar</string>
+
+    <string name="button_text_siguiente">Siguiente</string>
+
+</resources>
