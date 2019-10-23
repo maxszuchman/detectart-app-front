@@ -2,7 +2,7 @@
     <string name="app_name">DetectART</string>
 
 
-    <string name="splash_screen">DetectARTgit clean -d -f -i</string>
+    <string name="splash_screen">DetectART</string>
     <string name="nav_contactos">Contactos</string>
     <string name="nav_dispositivos">Dispositivos</string>
     <string name="nav_logout">Cerrar sesión</string>
